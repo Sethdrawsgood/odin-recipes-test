@@ -1,0 +1,51 @@
+a {
+    text-decoration:none;
+}
+.titles {
+    color:red;
+    font-family: lucida handwriting, cursive;
+    background-color:bisque
+}
+.b {
+    color:brown;
+    font-family:copperplate;
+    background-color:peachpuff
+}
+.s {
+    color:#17ce8b;
+    background-color:#1d1f93;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.h {
+    color:mintcream;
+    background-color:rgb(132, 77, 29)
+}
+h1,h2,h3 {
+    text-align:center;
+}
+h1 {
+    text-shadow: 1px 1px black;
+}
+.hb,.hs,.hh {
+    background-color:mintcream
+}
+.hs {
+    color:#1d1f93;
+}
+a:hover {
+    text-decoration:underline;
+}
+.steps {
+    background-color:rgba(0, 255, 255, 0.153);
+    padding:10px;
+}
+.ingred {
+    background-color:aquamarine;
+    padding:10px;
+}
+img {
+    display: block;
+    margin: auto;
+    filter:drop-shadow(grey 1rem 1rem 5px);
+}
